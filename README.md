@@ -4,6 +4,8 @@
 
 I like software that keeps useful context, makes consequential actions inspectable, and stays fast under the keyboard. My work spans LLM pipelines, probabilistic reasoning, backend systems, developer tooling, creative interfaces, and the infrastructure needed to keep them running.
 
+I also run **[Reliq Digital](https://reliq.digital)**, my freelance development company, and write at **[Arcane Codex](https://arcanecodex.dev)**.
+
 ## What I'm working on
 
 ### Elijah · private
@@ -35,4 +37,6 @@ The repository is private, but I can discuss the system architecture and non-con
 
 ## Elsewhere
 
-Explore my work at **[sumeetsaini.com](https://sumeetsaini.com)**.
+- **Personal website:** [sumeetsaini.com](https://sumeetsaini.com)
+- **Blog:** [arcanecodex.dev](https://arcanecodex.dev)
+- **Freelance development:** [reliq.digital](https://reliq.digital)
