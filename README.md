@@ -2,7 +2,7 @@
 
 Hey!
 
-I'm Sumeet, currently founding engineer at [Elijah Intelligence](https://elijahintelligence.com), building the forecasting solutions of the future!
+I'm Sumeet, founder of [Reliq](https://reliq.digital), current working with [Elijah Intelligence](https://elijahintelligence.com) to build the forecasting solutions of the future!
 
 I'm a big user of agents and prefer a terminal-first dev experience, so I spend a lot of my free time optimising my workflow and sharing it here.
 
